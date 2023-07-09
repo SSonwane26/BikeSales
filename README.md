@@ -1,7 +1,5 @@
-# Bike Sales
-
-## Europe Bike Store Sales
-About Business
+# Europe Bike Store Sales
+## About Business
 At Bike Store, we’ve realized our vision of creating a bike platform that serves cyclists all across Europe. With us, you’re able to order bicycles , cycling clothing and accessories directly to your door. Our extensive range can be browsed wherever you are and at any time. Basically it sale product, both online, and offline, in Europe as well as outside from Europe.
 ## About Project
 Data set from [KAGGLE](https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales)
@@ -30,4 +28,4 @@ This dataset contains information about  bikes sales, clothing sales and accesso
 - Total Revenue Total Profit are 95.18M Euros and 42.13M Euros.
 - Top 3 Countries in term of Revenue are United States, Australia and United Kingdom.
 - Top 3 Countries in term of Product Sold are United States, Australia and Canada.
-- Most Revenue are generated form Adults. 
+- Most Revenue are generated form Adults.
