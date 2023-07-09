@@ -26,8 +26,8 @@ This dataset contains information about  bikes sales, clothing sales and accesso
 - Create Tree Map for Sales and Revenue for Sub Category
 - Create Bubble Chart for Total Journey of Profit and Sales form 2011 to 2016 
 ## Conclusion:
-Total Product Sold 1.35M.
-Total Revenue Total Profit are 95.18M Euros and 42.13M Euros.
-Top 3 Countries in term of Revenue are United States, Australia and United Kingdom.
-Top 3 Countries in term of Product Sold are United States, Australia and Canada.
-Most Revenue are generated form Adults. 
+- Total Product Sold 1.35M.
+- Total Revenue Total Profit are 95.18M Euros and 42.13M Euros.
+- Top 3 Countries in term of Revenue are United States, Australia and United Kingdom.
+- Top 3 Countries in term of Product Sold are United States, Australia and Canada.
+- Most Revenue are generated form Adults. 
